@@ -1,0 +1,3 @@
+Count of unique words: 10
+Count of unique palindromes: 1
+Longest word: racecar

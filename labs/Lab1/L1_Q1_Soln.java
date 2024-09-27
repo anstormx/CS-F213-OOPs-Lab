@@ -1,4 +1,3 @@
-//Class to solve Lab 1 Question 1
 public class L1_Q1_Soln {
     public static void solve(int number) {
         if (number == 0) {
