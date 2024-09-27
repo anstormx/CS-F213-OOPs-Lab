@@ -1,0 +1,4 @@
+SportsCar - Model: SportsCar
+Final Speed: 70 km/h
+Fuel Remaining: 0
+Distance Covered: 1 km

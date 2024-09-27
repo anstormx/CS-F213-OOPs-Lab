@@ -1,0 +1,4 @@
+SUV - Model: SUV
+Final Speed: 30 km/h
+Fuel Remaining: 0
+Distance Covered: 33 km
