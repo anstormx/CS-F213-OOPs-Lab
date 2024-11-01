@@ -1,0 +1,7 @@
+5
+Triangle 5 8
+Rectangle 5 6
+Triangle 6 10
+Rectangle 8 7
+Rhombus 8 7
+

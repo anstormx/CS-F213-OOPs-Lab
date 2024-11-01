@@ -1,0 +1,16 @@
+Figure counts:
+Triangles: 7
+Rectangles: 0
+Rhombuses: 1
+Largest areas:
+Triangle: 42.0
+Rectangle: -1.0
+Rhombus: 22.0
+Figures with area 20.0: 1
+Figures with area 30.0: 0
+Figure with area 20.0: Triangle
+Figure with area 30.0: Key not present.
+Average areas:
+Triangle: 25.428571428571427
+Rhombus: 22.0
+
